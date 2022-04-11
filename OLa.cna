@@ -1,0 +1,61 @@
+println("\c9 [+] Wellcome To OLa(欧拉) , by d3ckx1  happy hacking :) [+]")
+
+#---------------------------------------------------#
+#													#
+#	  ,ad8888ba,   88                      			#
+#	 d8"'    `"8b  88                      			#
+#	d8'        `8b 88                      			#
+#	88          88 88          ,adPPYYba,  			#
+#	88          88 88          ""     `Y8  			#
+#	Y8,        ,8P 88          ,adPPPPP88  			#
+#	 Y8a.    .a8P  88          88,    ,88  			#
+#	  `"Y8888Y"'   88888888888 `"8bbdP"Y8  			#
+#													#
+#---------------------------------------------------#
+
+
+command wellcome {
+	println("\c9 [+] Wellcome To OLa(欧拉) , by d3ckx1  happy hacking :) [+]");
+
+} #在命令行中显示
+
+
+
+popup beacon_bottom {
+    menu "OLa(欧拉)"{
+
+    	menu "☠ 建议执行频率不要过快 :)" {}
+
+    	# Plugin Loader
+        
+        include(script_resource("modules/discovery.cna"));
+
+        include(script_resource("modules/Intranet_agent.cna"));
+
+        include(script_resource("modules/elevate.cna"));
+
+        include(script_resource("modules/Intranet_scan.cna"));
+
+        include(script_resource("modules/Passwd_Capture.cna"));
+
+        include(script_resource("modules/Intranet_move.cna"));
+        include(script_resource("modules/AuthMaintain.cna"));
+        include(script_resource("modules/trace_clean.cna"));
+        include(script_resource("modules/bypass_tools.cna"));
+        include(script_resource("modules/funny.cna"));
+
+
+
+
+	
+    }
+}
+
+
+popup OLa_Tools{
+  item("&作者-d3ckx1",{url_open("https://github.com/d3ckx1")});
+  separator();
+  item("&自动注入迁移进程",{url_open("https://github.com/d3ckx1/CS-Auto-migrate")});
+}
+
+menubar("OLa-Tools", "OLa_Tools");
