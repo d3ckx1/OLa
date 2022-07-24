@@ -15,6 +15,8 @@
   5、新增内网扫描工具F-vuln最新英文版；
   6、新增内网扫描工具RequestTemplate；
 
+下载地址：https://github.com/d3ckx1/OLa/releases/tag/
+
 部分功能截图
 
 ![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220724101521.png)
@@ -26,4 +28,3 @@
 ![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220724111727.png)
 
 ![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220724111802.png)
-
