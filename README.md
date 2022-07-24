@@ -11,9 +11,13 @@
 
 部分功能截图
 
-![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220412100522.jpg)
+![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220724101521.png)
 
 ![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220412100508.png)
 
 ![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220412100512.png)
+
+![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220724111727.png)
+
+![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220724111802.png)
 
