@@ -28,3 +28,7 @@
 ![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220724111727.png)
 
 ![Image text](https://github.com/d3ckx1/OLa/blob/main/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220724111802.png)
+
+
+## 🏁 Star曲线
+![star](https://starchart.cc/d3ckx1/OLa.svg)
